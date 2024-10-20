@@ -12,9 +12,9 @@ import Sapphire_TiaraIcon from './assets/tags/Sapphire_Tiara.jpeg';
 import TunaIcon from './assets/tags/Tuna.jpeg';
 
 
-import Pirate_Brown from './assets/roles/Pirate_Brown.jpeg';
-import Honeybee_Sally from './assets/roles/Honeybee_Sally.jpeg';
-import W_Brown_2 from './assets/roles/W_Brown_2.jpeg';
+import Pirate_Brown from './assets/roles/Pirate_Brown.jpg';
+import Honeybee_Sally from './assets/roles/Honeybee_Sally.jpg';
+import W_Brown_2 from './assets/roles/W_Brown_2.jpg';
 // 標籤數據
 const tagData = {
     Animitsu: {
