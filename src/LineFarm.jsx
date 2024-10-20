@@ -99,7 +99,7 @@ export default function ImageGallery() {
 
     const filteredImages = imageData.filter(img =>
         selectedTags.length === 0 ||
-        selectedTags.every(tag => img.tags.includes(tag))
+        img.tags.some(tag => selectedTags.includes(tag))
     );
 
     return (
