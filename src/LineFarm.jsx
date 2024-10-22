@@ -155,13 +155,13 @@ const allTags = [
         id: 'Grape_Juice',
         name: '葡萄汁',
         filename: 'Grape_Juice.jpg',
-        categoryPath: 'Dairy_Factory'
+        categoryPath: 'Juice_Stand'
     },
     {
         id: 'Strawberry_Juice',
         name: '草莓汁',
         filename: 'Strawberry_Juice.jpg',
-        categoryPath: 'Dairy_Factory'
+        categoryPath: 'Juice_Stand'
     },
     {
         id: 'Glod_Ingot',
